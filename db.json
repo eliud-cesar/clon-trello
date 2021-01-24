@@ -1,0 +1,36 @@
+{
+    "taks": [
+        {
+        "id": 1,
+        "title": "Crear JSON para el proyecto",
+        "person": "auron",
+        "state": "to-do",
+        "deadLine": 1613005164,
+        "created": 1611449964
+        },
+        {
+        "id": 1,
+        "title": "Crear 2 JSON para el proyecto",
+        "person": "auron",
+        "state": "in-progress",
+        "deadLine": 1613005164,
+        "created": 1611449964
+        },
+        {
+        "id": 1,
+        "title": "Crear 3 JSON para el proyecto",
+        "person": "auron",
+        "state": "done",
+        "deadLine": 1613005164,
+        "created": 1611449964
+        },
+        {
+        "id": 1,
+        "title": "Crear 4 JSON para el proyecto",
+        "person": "auron",
+        "state": "to-do",
+        "deadLine": 1613005164,
+        "created": 1611449964
+        }
+    ]
+}
